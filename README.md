@@ -1,0 +1,1 @@
+Este es un ejemplo basico de como el uso de Numba puede ayudar a la velocidad en que se realizan operaciones tanto matematicas como algebraicas, unicamente corre el archivo python en si o en caso de que tengas algun software de desarollo como pycharm u visual studio en cuyo caso tambien lo puedes correr ahi!
